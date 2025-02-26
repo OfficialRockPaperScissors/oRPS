@@ -1,6 +1,6 @@
 {
-  "name": "Meme Coin",
-  "symbol": "MEME",
-  "description": "A fun meme coin on Solana!",
-  "image": "https://github.com/yourusername/meme-coin-assets/raw/main/meme-coin.png"
+  "name": "Official Rock Paper Scissors",
+  "symbol": "ORPS",
+  "description": "Official Rock Paper Scissors on Solana!",
+  "image": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/refs/heads/main/RPS.png"
 }
