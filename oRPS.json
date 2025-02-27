@@ -3,5 +3,5 @@
   "symbol": "ORPS",
   "description": "Official Rock Paper Scissors on Solana!",
   "image": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/refs/heads/main/RPS.png",
-  "uri": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/main/oRPS.json"
+  "uri": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/main/oRPS-offchain.json"
 }
