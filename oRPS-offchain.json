@@ -1,4 +1,6 @@
 {
   "description": "Official Rock Paper Scissors on Solana!",
-  "image": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/refs/heads/main/RPS.png"
+  "image": "https://raw.githubusercontent.com/OfficialRockPaperScissors/oRPS/refs/heads/main/RPS.png",
+  "name":   "Official Rock Paper Scissors",
+  "symbol": "ORPS"
 }
